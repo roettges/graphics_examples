@@ -1,0 +1,2 @@
+You can refresh the page to get a new orientation of trees. 
+The leaves rotate independently of the branches. The branches rotate at the base and then split and have a second half that rotates independently of the base. 
