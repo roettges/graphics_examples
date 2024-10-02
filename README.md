@@ -1,7 +1,8 @@
 # graphics_examples
-Example home work projects typically executed over about a week's worth of time. 
+Example home work projects from my Computer Graphics class. I typically executed on each home work over about a week's worth of time sometimes a little longer. 
 
-For all examples, except for HW6, to review the examples clone the full repository, then double click the .html file to launch it in your browser to see the graphics. HW6 simply has a link. I also made gifs to represent the works so you can visualize them here without cloning.
+I made gifs to represent the works so you can visualize them here without cloning the repositories, __they may take a moment to load__ on this page.
+For all examples, except for HW6, to review the examples in full clone the repository, then double click the .html file to launch it in your browser to see the graphics. HW6 simply has a link. 
 
 - [HW 8 - DND Die with texture, exploring reflectance and texture application](https://github.com/roettges/graphics_examples/tree/main/LauraRoettges_HW8CompGraphics)
 ![](figures/die_w_texture.gif)
